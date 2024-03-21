@@ -1,6 +1,5 @@
-- 👋 Hi,I’m Joy Esther Pursuing engineering in the computer science field at Anna University Regional Campus Madurai.
-- 👀 I’m interested in data science field .
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on Data realeted  internship.
+- 👋 Hi,I’m Joy Esther working in Tata Consultant Services, chennai as a system engineer.
+- working in developing in AWS services-glue,lambda.
+- it involves ruuning the end to end pipeline . 
 
 
